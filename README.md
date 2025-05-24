@@ -1,5 +1,6 @@
 ## Hi there, I'm Yash Verma 👋
 
+![image](https://github.com/user-attachments/assets/c4ce5ff6-315b-4b8f-8b0a-af2f43ff5b4c)
 
 <!--
 **YashVerma24299/YashVerma24299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
