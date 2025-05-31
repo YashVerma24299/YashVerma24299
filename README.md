@@ -28,7 +28,7 @@
 ###
 
 <ul>
-  <li><b>Programming Languages:</b> C/C++ and Python.</li>
+  <li><b>Programming Languages:</b> C/C++ and JavaScript</li>
   <li><b>Core Strengths:</b> SQL, OOPS, Database Optimization, MERN-Stack Development, Version Control (Git, GitHub).</li>
   <li><b>Web Technologies:</b> Tailwind CSS, Bootstrap, JavaScript, React, Node.js (EJS, REST), Express, MongoDB.</li>
   <li><b>Area of Interests:</b> Competitive Programming.</li>
